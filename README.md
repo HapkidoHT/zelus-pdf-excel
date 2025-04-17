@@ -26,9 +26,6 @@ Bem-vindo ao **Zelus RH**, uma aplicação web desenvolvida com Python + Streaml
 
 ---
 
-## 📦 Instalação local (opcional)
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/zelus-pdf-excel.git
-   cd zelus-pdf-excel
+🧑‍💻 Autor
+Desenvolvido por Douglas Godoi – Especialista em Dados & Automação
+Projeto mantido pela Zelus Tecnologia e Processos
