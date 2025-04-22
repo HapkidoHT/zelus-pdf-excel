@@ -28,4 +28,4 @@ Bem-vindo ao **Zelus RH**, uma aplicação web desenvolvida com Python + Streaml
 
 🧑‍💻 Autor
 Desenvolvido por Douglas Godoi – Especialista em Dados & Automação
-Projeto mantido pela Zelus Tecnologia e Processos
+Projeto mantido pelo Grupo Zelus
