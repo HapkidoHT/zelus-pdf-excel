@@ -66,7 +66,7 @@ if uploaded_file:
 # RODAPÉ
 st.markdown("---")
 st.markdown(
-    "<p style='text-align: center; font-size: 13px; color: gray;'>Desenvolvido por <b>Zelus Tech</b> • Versão Beta</p>",
+    "<p style='text-align: center; font-size: 13px; color: gray;'>Desenvolvido por <b>Douglas Godoi - DG Data Grid</b> • Versão Beta</p>",
     unsafe_allow_html=True
 )
 
