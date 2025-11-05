@@ -8,7 +8,7 @@ import io
 st.set_page_config(page_title="Zelus - PDF para Excel", layout="centered")
 
 # CABEÇALHO COM ESTILO
-st.markdown("<h1 style='text-align: center; color: #2C3E50;'>📄 Zelus RH - Extração de Dados do PDF</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #2C3E50;'>📄 Extração de Dados do PDF</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center;'>Transforme PDFs em planilhas organizadas com nome e data de admissão dos colaboradores.</p>", unsafe_allow_html=True)
 
 # SELEÇÃO DE ARQUIVO
