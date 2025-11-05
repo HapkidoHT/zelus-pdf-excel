@@ -1,4 +1,4 @@
-# 🧾 Zelus RH – Extração de Dados de PDFs para Excel
+# 🧾Extração de Dados de PDFs para Excel
 
 Bem-vindo ao **Zelus RH**, uma aplicação web desenvolvida com Python + Streamlit que permite extrair de forma rápida e precisa os nomes e datas de admissão de colaboradores a partir de arquivos PDF.
 
